@@ -1,0 +1,20 @@
+.main, .cool {
+    background-color: #ffb5c3;
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+
+
+.cool {
+    font-size: 24px;
+}
+
+#two {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#four {
+    background-color: #a3ff53;
+    font-size: 24px;
+    font-weight: bold;
+}
